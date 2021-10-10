@@ -4,5 +4,6 @@ public class Sample2 {
         System.out.println("myfirstbrance");
         System.out.println("branch code");
         System.out.println("branch code");
+        System.out.println("branch code1");
     }
 }
